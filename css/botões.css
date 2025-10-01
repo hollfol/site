@@ -19,20 +19,29 @@
     filter: brightness(0.9);
 }
 
-.forgot-pass {
+.div-button {
+    margin: 50px 0 60px 0;
+}
+
+.esqueceu-senha {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+
+.forgot-pass, .signup {
     color: rgb(214, 167, 255);
     font-size: 25px;
 }
 
-.forgot-pass:hover {
+.forgot-pass:hover, .signup:hover {
     text-decoration: underline;
     cursor: pointer;
 }
 
-.forgot-pass:active{
+.forgot-pass:active, .signup:active {
     filter: brightness(0.7);
 }
 
-.entrar {
-    margin: 70px 0 35px 0;
-}
