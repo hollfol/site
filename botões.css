@@ -1,0 +1,38 @@
+.primary-button {
+    border-radius: 20px;
+    border: solid rgb(171, 107, 227);
+    background-color: rgb(54, 37, 66);
+    color: rgb(171, 107, 227);
+    cursor: pointer;
+    font-size: 35px;
+    padding: 5px 80px 5px 80px;
+    transition: all 0.15s;
+    text-decoration: none;
+}
+
+.primary-button:hover {
+    background-color: rgb(171, 107, 227);
+    color: white;
+}
+
+.primary-button:active {
+    filter: brightness(0.9);
+}
+
+.forgot-pass {
+    color: rgb(214, 167, 255);
+    font-size: 25px;
+}
+
+.forgot-pass:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.forgot-pass:active{
+    filter: brightness(0.7);
+}
+
+.entrar {
+    margin: 70px 0 35px 0;
+}
