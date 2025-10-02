@@ -19,14 +19,14 @@ body {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    width: 800px;
+    width: 10px;
     grid-column: 2;
 }
 
 .posts {
     border: solid 5px rgb(179, 133, 219);
-    width: 800px;
-    height: 1000px;
+    width: 600px;
+    height: 800px;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
