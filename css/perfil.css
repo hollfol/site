@@ -1,0 +1,20 @@
+.perfil {
+    margin: 30px;
+    position: fixed;
+    right: 0%;
+}
+
+.pfp-user {
+    width: 150px;
+}
+
+.options {
+    position: fixed;
+    bottom: 0%;
+    right: 0%;
+    width: 250px;
+}
+
+.gear {
+    width: 100%;
+}
